@@ -7,6 +7,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [Link to front-end ](#link-to-front-end-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -45,6 +46,12 @@
 ### Key Features <a name="key-features"></a>
 
 - **Generate random greetings**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Link to front-end <a name="key-features"></a>
+
+- You can find the front-end app [here.](https://github.com/leehaney254/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
