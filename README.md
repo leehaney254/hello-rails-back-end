@@ -23,7 +23,7 @@
 
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
-**hello-rails-back-end** is an application that works as the backend for a greetings application. It generates random greetings on every request.
+**hello-rails-back-end** is an application that works as the backend for a greetings application. It generates random greetings on every request. It can be modified for a variety of purposes
 
 ## 🛠 Built With <a name="built-with"></a>
 
